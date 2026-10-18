@@ -7,9 +7,11 @@
     "vscode": "^1.105.0"
   },
   "author": {
-	"name": "Tomimi",
-	"email": "tomyahu@gmail.com"
+    "name": "Tomimi",
+    "email": "tomyahu@gmail.com"
   },
+  "publisher": "Tomimi",
+  "icon": "img/icon.png",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/tahumadab/copy-as-snippet.git"
